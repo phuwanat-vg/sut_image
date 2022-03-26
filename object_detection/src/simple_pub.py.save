@@ -1,0 +1,2 @@
+status_pub = rospy.Publisher("sign_detection",String,queue_size = 10)
+status_msg = String()
