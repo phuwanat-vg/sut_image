@@ -170,11 +170,11 @@ void setup()
   pinMode(LED_BUILTIN, OUTPUT);
   digitalWrite(LED_BUILTIN, HIGH);
 
-  pinMode(L_MOTOR_PWM, OUTPUT);
+  //pinMode(L_MOTOR_PWM, OUTPUT);
   pinMode(L_MOTOR_DIR1, OUTPUT);
   pinMode(L_MOTOR_DIR2, OUTPUT);
 
-  pinMode(R_MOTOR_PWM, OUTPUT);
+ // pinMode(R_MOTOR_PWM, OUTPUT);
   pinMode(R_MOTOR_DIR1, OUTPUT);
   pinMode(R_MOTOR_DIR2, OUTPUT);
 
